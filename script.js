@@ -65,12 +65,6 @@ fetchData("./places.json")
       latlngs.push(marker.coords);
     });
 
-    // add polyline to map
-    L.polyline(latlngs, {
-      color: "#ff3939",
-      weight: 2,
-    }).addTo(map);
-
     return data;
   })
   .then((data) => {
