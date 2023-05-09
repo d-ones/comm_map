@@ -43,6 +43,7 @@
     },
     "description": "<p>Frankie's Outdoor Market is a farmer's market designed to provide food access to the Northside neighborhood in Wilmington, NC. This neighborhood has traditionally been afflicted by food apartheid, and is the future home of the Northside Food Coop. As the coop is securing funding and being constructed, Frankie's Outdoor Market allows community members to access nutritious food options. <br> Sources: https://northsidefoodcoop.com/about-the-market/ </p>"
   },
+  {
     "id": 5,
     "coords": [33.6799604798005, -84.44408052883621],
     "title": "The Federation of Southern Cooperatives",
@@ -53,6 +54,7 @@
     },
     "description": "<p>This organization provides resources to cooperatives in the South with a specific focus on food cooperatives. It provides administrative resources and networks as well as offering land retention help, which focuses specifically on preventing Black land loss and allowing Black farmowners to retain their land.<br> Sources: https://www.federation.coop/ </p>"
   },
+  {
     "id": 6,
     "coords": [35.997880148884576, -78.89922704603462],
     "title": "Land Loss Prevention Project",
